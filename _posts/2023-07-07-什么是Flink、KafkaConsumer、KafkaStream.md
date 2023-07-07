@@ -68,10 +68,10 @@ Kafka Streams API使流处理可作为应用程序的一部分运营，由于Kaf
 ---
 
 参考资料  
-https://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/
-https://medium.com/@chandanbaranwal/spark-streaming-vs-flink-vs-storm-vs-kafka-streams-vs-samza-choose-your-stream-processing-91ea3f04675b
-https://www.baeldung.com/java-kafka-streams-vs-kafka-consumer
-https://stackoverflow.com/questions/44014975/kafka-consumer-api-vs-streams-api?rq=1
-https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/
-https://kafka.apache.org/intro
+ https://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/  
+ https://medium.com/@chandanbaranwal/spark-streaming-vs-flink-vs-storm-vs-kafka-streams-vs-samza-choose-your-stream-processing-91ea3f04675b  
+ https://www.baeldung.com/java-kafka-streams-vs-kafka-consumer  
+ https://stackoverflow.com/questions/44014975/kafka-consumer-api-vs-streams-api?rq=1  
+ https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/  
+ https://kafka.apache.org/intro  
 
